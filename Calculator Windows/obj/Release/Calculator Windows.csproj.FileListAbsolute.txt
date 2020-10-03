@@ -1,0 +1,9 @@
+C:\Users\user\Downloads\Calculator-Apps-master\Calculator Windows\bin\Release\Calculator Windows.exe.config
+C:\Users\user\Downloads\Calculator-Apps-master\Calculator Windows\bin\Release\Calculator Windows.exe
+C:\Users\user\Downloads\Calculator-Apps-master\Calculator Windows\bin\Release\Calculator Windows.pdb
+C:\Users\user\Downloads\Calculator-Apps-master\Calculator Windows\obj\Release\Calculator_Windows.Form1.resources
+C:\Users\user\Downloads\Calculator-Apps-master\Calculator Windows\obj\Release\Calculator_Windows.Properties.Resources.resources
+C:\Users\user\Downloads\Calculator-Apps-master\Calculator Windows\obj\Release\Calculator Windows.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Calculator-Apps-master\Calculator Windows\obj\Release\Calculator Windows.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Calculator-Apps-master\Calculator Windows\obj\Release\Calculator Windows.exe
+C:\Users\user\Downloads\Calculator-Apps-master\Calculator Windows\obj\Release\Calculator Windows.pdb
